@@ -1,6 +1,6 @@
-# MindBlogging
+# EchoPen
 
-Welcome to the Blog Project! This project allows users to read and interact with a collection of blogs. It includes features like getting all blogs, getting blogs from followed authors, following authors, adding comments to blogs, listing comments on a blog, and view counts on blogs.
+Welcome to the EchoPen Project! This project allows users to read and interact with a collection of blogs. It includes features like getting all blogs, getting blogs from followed authors, following authors, adding comments to blogs, listing comments on a blog, and view counts on blogs.
 
 ## Features
 
